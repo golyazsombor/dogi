@@ -1,0 +1,15 @@
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\bin\Debug\ZeneBonaDolgozat.exe.config
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\bin\Debug\ZeneBonaDolgozat.exe
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\bin\Debug\ZeneBonaDolgozat.pdb
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\bin\Debug\Interop.WMPLib.dll
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\ZeneBonaDolgozat.csprojAssemblyReference.cache
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\Interop.WMPLib.dll
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\ZeneBonaDolgozat.csproj.ResolveComReference.cache
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\ZeneBonaDolgozat.MusicPlayer.resources
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\ZeneBonaDolgozat.Properties.Resources.resources
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\ZeneBonaDolgozat.csproj.GenerateResource.cache
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\ZeneBonaDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\ZeneBonaDolgozat.exe
+C:\Users\tanulo\source\repos\ZeneBonaDolgozat\ZeneBonaDolgozat\obj\Debug\ZeneBonaDolgozat.pdb
